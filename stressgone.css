@@ -1,0 +1,12 @@
+.thanks {
+    font-weight: bold;
+    color: red;
+    padding-top: 8px;
+    visibility: hidden;
+}
+
+.feedback {
+flex-direction: row-reverse;
+display: inline-flex;
+width: min-content;
+}
